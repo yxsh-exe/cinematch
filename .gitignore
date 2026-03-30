@@ -41,8 +41,6 @@ yarn-debug.log*
 yarn-error.log*
 
 # Datasets / Large files
-*.csv
-backend/*.csv
 backend/app/data/*.pkl
 backend/app/data/*.parquet
 
